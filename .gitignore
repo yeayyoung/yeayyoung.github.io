@@ -1,9 +1,2 @@
-# ignore everything
-/*
-
-# But include contents
-!/_site
-!README.md
-!.nojekyll
-!.gitignore
-!.gitattributes
+# ignore cache
+.sass-cache/
