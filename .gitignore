@@ -2,6 +2,8 @@
 *
 
 # But include contents
-!_site/
+!/_site
 !README
 !.nojekyll
+!.gitignore
+!.gitattributes
