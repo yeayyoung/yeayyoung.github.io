@@ -1,9 +1,9 @@
 # ignore everything
-*
+/*
 
 # But include contents
 !/_site
-!README
+!README.md
 !.nojekyll
 !.gitignore
 !.gitattributes
