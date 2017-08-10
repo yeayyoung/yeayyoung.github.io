@@ -7,4 +7,4 @@ designed by [heiswayi](https://github.com/heiswayi).
 
 ### License
 
-[MIT](LICENSE.md), except those in [_posts](_posts) folder.
+[MIT](LICENSE.md), except those in [notes](notes) and [assets](assets) folder.
