@@ -3,7 +3,7 @@ body {
   line-height: 20px;
   font-weight: normal;
   font-style: normal;
-  font-family:  consolas, monaco, courier, "courier new", SimSun, fixed-width;
+  font-family:  Georgia, consolas, monaco, courier, "courier new", SimSun, fixed-width;
   color: #333333;
   padding: 20px;
   margin: 0;
@@ -233,6 +233,9 @@ article {
     font-size: 15px;
     line-height: 1.9em;
     word-wrap: break-word;
+  }
+  .zh_punc {
+    font-family: SimSun, fixed-width;
   }
   .footnote {
     border: 0;
