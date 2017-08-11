@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>/notes/dumb-letters-01</loc>
+<lastmod>2012-12-06T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>/notes/dumb-letters-02</loc>
+<lastmod>2012-12-11T00:00:00+08:00</lastmod>
+</url>
+<url>
 <loc>/notes/cowardice</loc>
 <lastmod>2015-09-01T00:00:00+08:00</lastmod>
 </url>
@@ -11,6 +19,10 @@
 <url>
 <loc>/notes/of-agony</loc>
 <lastmod>2017-04-28T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>/notes/dumb-letters-03</loc>
+<lastmod>2017-04-30T00:00:00+08:00</lastmod>
 </url>
 <url>
 <loc>/notes/along-a-cinder-path</loc>
