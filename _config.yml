@@ -12,6 +12,7 @@ author_gravatar:    0658f52055aad54e8d47d986ea3d254f # Your Gravatar md5 hash he
 # github_username:     # Your GitHub username here
 
 # Site Settings
+url:                yeayyoung.github.io
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
 permalink:          /notes/:title # Post permalink
 timezone:           Asia/Shanghai # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
