@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 蠢材路
+description: When I Stood At A Crossing
 ---
-
 
 十五岁的我还是一蠢物。我不喜读书，对艺术茫然无知，讨厌运动，更不懂装扮。我惟一的
 乐趣是看电视。父亲骂我蠢，我只把他的话当耳边风。

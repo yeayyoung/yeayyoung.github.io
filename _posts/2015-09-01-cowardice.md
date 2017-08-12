@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 怯
+description: A Day In Autumn Garden
 ---
 
 倘若我是勇敢的，我要走我的路。我要拂去沙沙地蹭着心的毛刷，我要对面前的人大声说：
