@@ -24,4 +24,4 @@ description: Letters Never Sent Out
 要骂我犯傻，自己也知道是浑话，可是——再谈吧。
 
 <div style="text-align:right">介</div>
-<div style="text-align:right">六曰十八日</div>
+<div style="text-align:right">六月十八日</div>
