@@ -3,7 +3,7 @@
 
 class String
   han = '\p{Han}|[，。？；：‘’“”、！……（）]'
-  dash = '[—]{2}|[“”]'
+  dash = '[—]{2}|[“”‘’]'
   @@chinese_regex = /(#{han}) *\n *(#{han})/m
   @@chinese_punc_regex = /(#{dash})/m
   def join_chinese!
